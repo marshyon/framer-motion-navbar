@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Framer Motion Mobile Navbar Example
+
+
+
+adapted from [How to Create A Sliding Sidebar Menu with Framer Motion](https://egghead.io/blog/how-to-create-a-sliding-sidebar-menu-with-framer-motion)
+
+> https://codesandbox.io/s/framer-motion-sidebar-finished-forked-qtsdls?file=/src/App.js:0-1716
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
